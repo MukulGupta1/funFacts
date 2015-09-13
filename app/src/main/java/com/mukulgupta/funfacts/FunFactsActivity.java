@@ -45,6 +45,6 @@ public class FunFactsActivity extends Activity {
         };
 
         showFactButton.setOnClickListener(listener);
-        Log.d(TAG, "We are logging this from the OnCreate() method");
+        Log.d(TAG, "This was a test toast only");
     }
 }
